@@ -14,4 +14,4 @@ My interests:
 - ☕ English
 
 Most of my stuff is for school and some is prohibited from the public view. Feel free to contact me at Discord: "Jacob Makes Changes#8318".
-All the code owned and/or co-owned by me is copyrighted, and you need my approval before using it in any way different than educational.
+All the code owned and/or co-owned by me is copyrighted, and you need my or my acquaintance's approval before using it in any way different than educational.
