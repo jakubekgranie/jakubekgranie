@@ -1,7 +1,7 @@
 Sup, this is me, Jakubekgranie aka ShatterWares, past, Jakub ~, whitehat and so the list goes on. I am a programming student, aiming to fulifull my far-reaching ambitions and to make the world an actually sufferable place.
 
 My interests: 
-- 📗 Reading books (as long as those are not school books)
+- 📗 Reading books (as long as they are not school books)
 - 🔬 Computers (more precisely computer science, AIs)
 - 🧙 Philosophy
 - 💻 C++, HTML, JS, Python, and more in foreseeable future
