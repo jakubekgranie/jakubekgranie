@@ -14,6 +14,7 @@ My interests:
 - ☕ English
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubekgranie&theme=synthwave&show_icons=true&count_private=true)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakubekgranie&repo=projecthub.github.io)](https://github.com/jakubekgranie/projecthub.github.io)
 
 Most of my stuff is for school and some is prohibited from the public view. Feel free to contact me at Discord: "Jacob Makes Changes#8318".
