@@ -22,7 +22,7 @@ All the code owned and/or co-owned by me is copyrighted, and you need my and my 
 I've never been affiliated with any comglomerate and/or company, all information sources telling so are fake.-->
 <h1 align="center">✧ // Hello world! I'm jakubekgranie!_</h1>
 <br>
-<div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"><br></div>
+<div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <a href="https://shatterwares.com"><img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"></a></div>
 <br>
 <div>My real name's Jacob (shocker). I am an <b>adolescent Polish CS student</b> with <b>plans of attaining webmastery and desktop app creation proficiency.</b> Except for the obvious interests, I enjoy <i>philosophy</i> - especially <i>nihilism</i>, <i>objectivism</i> and <i>ontology</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating, albeit for the time being such plans are unexecutable.
 <br>
