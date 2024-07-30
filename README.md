@@ -24,7 +24,7 @@ I've never been affiliated with any comglomerate and/or company, all information
 <br>
 <div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"><br></div>
 <br>
-<div>My real name's Jacob (shocker). I am an <b>adolescent Polish CS student</b> with <b>plans for webmastery and desktop app creation proficiency.</b> Except for the obvious interests, I enjoy <i>philosophy</i> - especially <i>nihilism</i>, <i>objectivism</i> and <i>ontology</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating, albeit for the time being such plans are unexecutable.
+<div>My real name's Jacob (shocker). I am an <b>adolescent Polish CS student</b> with <b>plans of attaining webmastery and desktop app creation proficiency.</b> Except for the obvious interests, I enjoy <i>philosophy</i> - especially <i>nihilism</i>, <i>objectivism</i> and <i>ontology</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating, albeit for the time being such plans are unexecutable.
 <br>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jakubekgranie&theme=aura&show_icons=true&count_private=true"></div>
