@@ -35,7 +35,6 @@ I used to use/also am using names such as <b>starstruck</b> and <b>sh0s</b>.
 <div align="center" title="this is me irl"><img width="170px" height="170px" src="stuff/car-devouring.gif" alt="car">&nbsp;&nbsp;<img width="170px" height="170px" src="stuff/car-being-car.gif"><br><img width="170px" height="170px" src="stuff/meirl.gif">&nbsp;&nbsp;<img width="170px" height="170px" src="stuff/true-car.gif"></div>
 <hr>
 </div>
-<br>
 <h2 align="center">✧ >> What's new and what's not!</h2>
 I am currently <b>working on my very own webisite - <a href="https://shatterwares.com">shatterwares.com</a>.</b> It's a hobby project I've been cultivating since ~last February. The work enables me to learn many new things and explore horizons I would've never in the natural environment of mine (school). Future <b>plans associated include adding a project hub, a pastebin-ish utility (least priority due to server-side language limitations)</b>, and maybe a blog if I'll care enough. I <b>love critique</b>, so if you want to lmk what should be this and that, <b>hmu on Discord!</b>
 <br>
