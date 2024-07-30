@@ -1,5 +1,5 @@
-Sup, this is me, Jakubekgranie aka ShatterWares, past, Jakub ~, whitehat and so the list goes on. I am a programming student, aiming to fulifull my far-reaching ambitions and to make the world an actually sufferable place.
-
+Hey there! Then name's Jacob. I'm an adolescent CS student based in southern Poland. My current main project is [my site](https://shatterwares.com) 
+<div style="text-align: center"> a</div>
 My interests: 
 - 📗 Reading books (as long as they are not school books)
 - 🔬 Computers (more precisely computer science, AIs)
