@@ -22,9 +22,9 @@ All the code owned and/or co-owned by me is copyrighted, and you need my and my 
 I've never been affiliated with any comglomerate and/or company, all information sources telling so are fake.-->
 <h1 align="center">✧ // Hello world! I'm jakubekgranie!_</h1>
 <br>
-<div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <a href="https://shatterwares.com"><img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"></a></div>
+<div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <a href="https://starstruck.network"><img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"></a></div>
 <br>
-My real name's Jacob (shocker). I am an <b>adolescent Polish CS student</b> with <b>plans of attaining webmastery and desktop app creation proficiency.</b> Except for the obvious interests, I enjoy <i>philosophy</i> - especially <i>nihilism</i>, <i>objectivism</i> and <i>ontology</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating, albeit for the time being such plans are unexecutable.
+My real name's Jacob (shocker). I am an <b>young adult Polish CS student</b> with <b>plans of becoming a professional webmaster and desktop app creator.</b> Except for the obvious interests, I enjoy <i>philosophy (am a determinist)</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating, albeit for the time being such plans are unexecutable.
 <br>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jakubekgranie&theme=aura&show_icons=true&count_private=true"></div>
@@ -35,20 +35,19 @@ I used to use/also am using names such as <b>starstruck</b> and <b>sh0s</b>.
 <div align="center" title="this is me irl"><img width="170px" height="170px" src="stuff/car-devouring.gif" alt="car">&nbsp;&nbsp;<img width="170px" height="170px" src="stuff/car-being-car.gif"><br><img width="170px" height="170px" src="stuff/meirl.gif">&nbsp;&nbsp;<img width="170px" height="170px" src="stuff/true-car.gif"></div>
 <hr>
 <h2 align="center">✧ >> What's new and what's not!</h2>
-I am currently <b>working on my very own webisite - <a href="https://shatterwares.com">shatterwares.com</a>.</b> It's a hobby project I've been cultivating since ~last February. The work enables me to learn many new things and explore horizons I would've never in the natural environment of mine (school). Future <b>plans associated include adding a project hub, a pastebin-ish utility (least priority due to server-side language limitations)</b>, and maybe a blog if I'll care enough. I <b>love critique</b>, so if you want to lmk what should be this and that, <b>hmu on Discord!</b>
+I am currently <b>working on my very own webisite - <a href="https://starstruck.network">starstruck.network</a></b>. Watch it grow everyday!
 <br>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakubekgranie&repo=projecthub.github.io&theme=aura"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jakubekgranie&repo=starstruck.network&theme=aura"></div>
 <br>
-As of 24.11.2024, my full focus shifted upon finishing my <b>WPF Tetris implementation</b> - to be unvaulted as soon as the dedaline passes.
 <h2 align="center">✧ >> Projects</h2>
-Links to featured projects will appear here <b>once <a href="https://https://github.com/jakubekgranie/shatterwares.com">ShatterWares'</a> core development reaches completion.</b> Then expect to find them there!
+Links to featured projects will appear <b>@ <a href="https://github.com/jakubekgranie/starstruck.network">starstruck.network</a> someday.</b> Until then, feel free to rummage through my repositories.
 <br><br>
 <h2 align="center">✧ >> Curios of moderate importance</h2>
 <ul>
   <li>I've <b><i>never</i> been affiliated</b> with any conglomerate, corporation, team, etc. All sources claiming so are not to be trusted with.</li>
-  <li><b>I don't own any social media except Discord</b> since 2022.</li>
-  <li>I own and moderate only <b>one domain - shatterwares.com</b>.</li>
+  <li><b>I haven't owned any social media except Discord</b> since 2022.</li>
+  <li>I own and moderate only <b>one domain - starstruck.network</b>, and <b>owned starstruck.com</b> until early January of 2025.</li>
 </ul>
 <br>
 <i>cya on the interwebs!!!! ~ Jacob</i>
