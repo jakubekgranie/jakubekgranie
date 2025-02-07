@@ -45,7 +45,7 @@ Links to featured projects will appear <b>@ <a href="https://github.com/jakubekg
 <br><br>
 <h2 align="center">✧ >> Curios of moderate importance</h2>
 <ul>
-  <li>I've <b><i>never</i> been affiliated</b> with any conglomerate, corporation, team, etc. All sources claiming so are not to be trusted with.</li>
+  <li>I've <b><i>never</i> been affiliated</b> with any conglomerate, corporation, team, etc. All sources claiming otherwise are not to be trusted with.</li>
   <li><b>I haven't owned any social media except Discord</b> since 2022.</li>
   <li>I own and moderate only <b>one domain - starstruck.network</b>, and <b>owned starstruck.com</b> until early January of 2025.</li>
 </ul>
