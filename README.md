@@ -2,7 +2,7 @@
 <br>
 <div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD_--_jakubekgranie-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <a href="https://starstruck.network"><img alt="Static Badge" src="https://img.shields.io/badge/MY_SITE-a0f5c7?style=for-the-badge&logo=aboutdotme&logoColor=black"></a></div>
 <br>
-My real name's Jacob (shocker). I am a <b>young adult Polish CS student</b> with <b>plans of becoming a professional webmaster and desktop app creator.</b> Except for the obvious interests, I enjoy <i>philosophy (am a determinist)</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>. I also harbor thoughts about emigrating.
+My real name's Jacob (shocker). I am a <b>young adult Polish CS student</b> with <b>plans of becoming a professional webmaster and desktop app creator.</b> Except for the obvious interests, I enjoy <i>philosophy (am a determinist)</i>, <i>botany</i>, <i>humanism</i>, <i>reading</i>, <i>pathology</i> and <i>self-development</i>.
 <br>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jakubekgranie&theme=aura&show_icons=true&count_private=true"></div>
